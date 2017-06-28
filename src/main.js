@@ -1,5 +1,5 @@
 /**
  * 使用npm集成是时候使用
  */
-require('./../dist/picker.css');
-module.exports = require('./../dist/picker');
+require('./../dist/my-picker.css');
+module.exports = require('./../dist/my-picker');

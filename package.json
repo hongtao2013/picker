@@ -1,7 +1,7 @@
 {
   "name": "my-picker",
   "version": "0.0.1",
-  "description": "一个js控件，移动端使用的选择器，类似ios的选择器的风格",
+  "description": "",
   "main": "src/main.js",
   "scripts": {
     "test": "webpack;mocha ./test/test.js",
