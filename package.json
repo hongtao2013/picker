@@ -10,14 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laden666666/my-picker.git"
+    "url": "git+https://github.com:hongtao2013/picker.git"
   },
   "keywords": [
-    "picker",
-    "my-picker"
+    "picker"
   ],
-  "author": "laden666666",
-  "license": "MIT",
+  "author": "",
   "devDependencies": {
     "chai": "^3.5.0",
     "css-loader": "^0.25.0",
@@ -33,8 +31,8 @@
     "webpack-dev-server": "^1.16.2"
   },
   "bugs": {
-    "url": "https://github.com/laden666666/my-picker/issues"
+    "url": "https://github.com:hongtao2013/picker/issues"
   },
-  "homepage": "https://github.com/laden666666/my-picker#readme",
+  "homepage": "https://github.com:hongtao2013/picker#readme",
   "dependencies": {}
 }
